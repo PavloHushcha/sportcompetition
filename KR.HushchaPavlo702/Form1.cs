@@ -10,8 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 // Updated UI
-//Update test
-
+// Test commit
 
 namespace KR_HushchaPavlo702
 {
