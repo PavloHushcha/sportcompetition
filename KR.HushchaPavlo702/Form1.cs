@@ -15,6 +15,8 @@ namespace KR_HushchaPavlo702
 {
     public partial class Form1 : Form
     {
+        int testValue1 = 1;
+
         // Підключення до MySQL (XAMPP)
         string connectionString = "server=localhost;database=sport_competition;uid=root;pwd=;";
 
